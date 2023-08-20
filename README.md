@@ -1,6 +1,7 @@
 ## Fancy seeing you here!
 
-I'm Aamez. I'm a full stack developer, and I specialize in efficient Ionic/React apps and CSS & HTML that just work across all platforms and browsers. I care deeply about building interfaces that are usable and pleasant for the most number of people possible. 
+I'm Aamez. Over 4+ years of strong experience as Full Stack web developer with solid understanding of front - end technologies, MVC frameworks, Restful web services and Data Base designing. Strong knowledge in MERN/MEAN Stack with vast experience in building Web Applications, used Reactjs/Nextjs/Angular for client side, Node.js/Express for server side and MongoDB, SQL, Postgresql for database.
+
 Find out more about me & feel free to connect with me here:
 
 ## ⚡ Technologies
