@@ -2,8 +2,6 @@
 
 I'm Aamez. Over 4+ years of strong experience as Full Stack web developer with solid understanding of front - end technologies, MVC frameworks, Restful web services and Data Base designing. Strong knowledge in MERN/MEAN Stack with vast experience in building Web Applications, used Reactjs/Nextjs/Angular for client side, Node.js/Express for server side and MongoDB, SQL, Postgresql for database.
 
-Find out more about me & feel free to connect with me here:
-
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
