@@ -1,6 +1,6 @@
 ## Fancy seeing you here!
 
-I'm Aamez. Over 4+ years of strong experience as Full Stack web developer with solid understanding of front - end technologies, MVC frameworks, Restful web services and Data Base designing. Strong knowledge in MERN/MEAN Stack with vast experience in building Web Applications, used Reactjs/Nextjs/Angular for client side, Node.js/Express for server side and MongoDB, SQL, Postgresql for database.
+Full Stack developer with solid understanding of front end technologies, MVC frameworks, Restful web services, Database designing, Object Oriented Programming, Functional programming, Design patterns, such as SOLID principles, Singleton, factory, DI, etc. Strong knowledge in MERN/MEAN Stack with vast experience in building Web Applications, using Javascript and Typescript as programming languages, Reactjs/Nextjs/Angular for client side, Ionic/React Native for mobile applications, Node.js/Express for server side and MongoDB, SQL, Postgresql for database.
 
 ## ⚡ Technologies
 
