@@ -2,6 +2,8 @@
 
 Full Stack developer with solid understanding of front end technologies, MVC frameworks, Restful web services, Database designing, Object Oriented Programming, Functional programming, Design patterns, such as SOLID principles, Singleton, factory, DI, etc. Strong knowledge in MERN/MEAN Stack with vast experience in building Web Applications, using Javascript and Typescript as programming languages, Reactjs/Nextjs/Angular for client side, Ionic/React Native for mobile applications, Node.js/Express for server side and MongoDB, SQL, Postgresql for database.
 
+<a href="https://app.daily.dev/aamez"><img src="https://api.daily.dev/devcards/09dedb45cfc94a3690e347f0fbff3132.png?r=bib" width="400" alt="Aamez's Dev Card"/></a>
+
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
