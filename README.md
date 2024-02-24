@@ -1,8 +1,6 @@
-## Fancy seeing you here!
+# 👋 Hello!
 
-Full Stack developer with solid understanding of front end technologies, MVC frameworks, Restful web services, Database designing, Object Oriented Programming, Functional programming, Design patterns, such as SOLID principles, Singleton, factory, DI, etc. Strong knowledge in MERN/MEAN Stack with vast experience in building Web Applications, using Javascript and Typescript as programming languages, Reactjs/Nextjs/Angular for client side, Ionic/React Native for mobile applications, Node.js/Express for server side and MongoDB, SQL, Postgresql for database.
-
-<a href="https://app.daily.dev/aamez"><img src="https://api.daily.dev/devcards/09dedb45cfc94a3690e347f0fbff3132.png?r=bib" width="400" alt="Aamez's Dev Card"/></a>
+Experienced Full Stack developer adept in MERN/MEAN Stack, passionate about crafting dynamic web and mobile applications. Proficient in JavaScript, TypeScript, React.js, Angular, Node.js, and diverse databases, with a knack for translating complex concepts into seamless user experiences.
 
 ## ⚡ Technologies
 
@@ -33,3 +31,14 @@ Full Stack developer with solid understanding of front end technologies, MVC fra
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 ![Profile views](https://komarev.com/ghpvc/?username=aamez227&color=gray)
+
+## Statistics
+
+<div>
+  <a href="https://github.com/aamez227?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-readme-stats.vercel.app/api?username=aamez227&show_icons=true&theme=react&count_private=true&hide=contribs" /></a>
+  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamez227&layout=compact&theme=react&hide=php&langs_count=6" />
+</div>
+
+## Daily Dev
+
+<a href="https://app.daily.dev/aamez"><img src="https://api.daily.dev/devcards/09dedb45cfc94a3690e347f0fbff3132.png?r=bib" width="300" alt="Aamez's Dev Card"/></a>
