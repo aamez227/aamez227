@@ -31,3 +31,5 @@ Full Stack developer with solid understanding of front end technologies, MVC fra
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
+![Profile views](https://komarev.com/ghpvc/?username=aamez227&color=gray)
