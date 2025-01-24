@@ -1,6 +1,6 @@
-# 👋 Hello!
+# Hey 👋
 
-Experienced Full Stack developer adept in MERN/MEAN Stack, passionate about crafting dynamic web and mobile applications. Proficient in JavaScript, TypeScript, React.js, Angular, Node.js, and diverse databases, with a knack for translating complex concepts into seamless user experiences.
+I'm a Full Stack Engineer with over 5.5+ years of experience, I specialize in bringing innovative products to life from conception to launch. Currently, I work mostly with TypeScript, Nextjs, Reactjs, Node.js, AWS, and GraphQL. With a strong foundation in software development, I excel in translating complex requirements into scalable and maintainable solutions. Committed to continuous learning and staying updated with the latest industry trends, I am passionate about leveraging technology to drive business growth and deliver exceptional user experiences.
 
 ## ⚡ Technologies
 
@@ -35,10 +35,11 @@ Experienced Full Stack developer adept in MERN/MEAN Stack, passionate about craf
 ## Statistics
 
 <div>
-  <a href="https://github.com/aamez227?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-readme-stats.vercel.app/api?username=aamez227&show_icons=true&theme=react&count_private=true&hide=contribs" /></a>
   <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamez227&layout=compact&theme=react&hide=php&langs_count=6" />
 </div>
 
 ## Daily Dev
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <a href="https://app.daily.dev/aamez"><img src="https://api.daily.dev/devcards/09dedb45cfc94a3690e347f0fbff3132.png?r=bib" width="300" alt="Aamez's Dev Card"/></a>
