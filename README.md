@@ -40,6 +40,4 @@ I'm a Full Stack Engineer with over 5.5+ years of experience, I specialize in br
 
 ## Daily Dev
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 <a href="https://app.daily.dev/aamez"><img src="https://api.daily.dev/devcards/09dedb45cfc94a3690e347f0fbff3132.png?r=bib" width="300" alt="Aamez's Dev Card"/></a>
