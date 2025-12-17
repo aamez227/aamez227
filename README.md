@@ -1,6 +1,6 @@
 # Hey 👋
 
-I'm a Full Stack Engineer with over 5.5+ years of experience, I specialize in bringing innovative products to life from conception to launch. Currently, I work mostly with TypeScript, Nextjs, Reactjs, Node.js, AWS, and GraphQL. With a strong foundation in software development, I excel in translating complex requirements into scalable and maintainable solutions. Committed to continuous learning and staying updated with the latest industry trends, I am passionate about leveraging technology to drive business growth and deliver exceptional user experiences.
+I'm a Full Stack Engineer with over 6.5+ years of experience, I specialize in bringing innovative products to life from conception to launch. Currently, I work mostly with TypeScript, Nextjs, Reactjs, Node.js, AWS, and GraphQL. With a strong foundation in software development, I excel in translating complex requirements into scalable and maintainable solutions. Committed to continuous learning and staying updated with the latest industry trends, I am passionate about leveraging technology to drive business growth and deliver exceptional user experiences.
 
 ## ⚡ Technologies
 
